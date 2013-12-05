@@ -1,0 +1,69 @@
+#contentdiv{
+	width: 100%; 
+	margin: 0px; 
+	padding-bottom: 50px; 
+}
+
+#nav{width: auto; }
+#nav > ul {width: auto; padding: 0px 10px;}
+
+
+.party_header{margin-top: 20px; }
+
+
+.party_header h1{
+	padding: 0px 0px 0px 20px
+}
+
+.party_header h1 span{
+	right: 20px;
+}
+
+.playlist h2{
+	text-align: center;
+}
+
+ul.playlist_container li{
+	padding-left: 20px; 
+	padding-right: 20px;
+}
+
+
+/*forms*/
+
+.field label{
+	float: none;
+	width: 90%; 
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: left;
+}
+
+.field input{
+	float: none;
+	width: 90%; 
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: left;
+}
+
+.field .select{
+	width: 90%; 
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.field textarea{
+	width: 90%; 
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+
+
+
+
+
+
+
+

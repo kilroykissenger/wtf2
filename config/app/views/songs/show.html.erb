@@ -1,0 +1,37 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Party ID:</b>
+  <%= @song.party_id %>
+</p>
+
+<p>
+  <b>Song name:</b>
+  <%= @song.song_name %>
+</p>
+
+<p>
+  <b>Song artist:</b>
+  <%= @song.song_artist %>
+</p>
+
+<p>
+  <b>Song album:</b>
+  <%= @song.song_album %>
+</p>
+
+<p>
+  <b>Song duration:</b>
+  <%= @song.song_duration %>
+</p>
+
+<p>
+  <b>Song location:</b>
+  <%= @song.song_location %>
+</p>
+
+<br />
+
+
+<%= link_to 'Edit', edit_song_path(@song) %> |
+<%= link_to 'Back', songs_path %>

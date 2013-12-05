@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DJ Sync</title>
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width" />
+
+	<%= stylesheet_link_tag "reset", :media => "all" %>
+	<%= stylesheet_link_tag "application", :media => "all"%>
+	<%= stylesheet_link_tag "tablet", :media => "only screen and (max-width: 980px)" %>
+ 	<%= stylesheet_link_tag "mobile", :media => "only screen and (max-width: 700px)" %>
+	<%= csrf_meta_tags %>
+  	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<%= javascript_include_tag "application" %>
+</head>
+<body id="body">
+
+
+
+
+
+
+	<%= yield %>
+
+
+
+
+</body>
+</html>

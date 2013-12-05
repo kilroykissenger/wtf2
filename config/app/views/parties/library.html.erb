@@ -1,0 +1,74 @@
+<div id="nav_container">
+  <nav id="nav">
+    <ul class="cf">
+      <li>DJ<span>SYNC</span></li>
+      <li><a href="/parties/<%=@party.id%>/">Setlist</a></li>
+      <li><a href="/parties/<%=@party.id%>/library">Library</a></li>
+      <!--<li><a href="">Party</a>
+        <div>
+          <ul>
+            <li><a href="">Join Party</a></li>
+            <li><a href="">Create Party</a></li>
+          </ul>
+        </div>
+      </li>-->
+    </ul>
+  </nav>
+</div>
+
+<div id="contentdiv">
+  <% if flash[:notice] %>
+      <div id="notice">
+        <%= flash[:notice] %>
+      </div>
+  <% end %>
+  <br/>
+  <div class="party_header">
+      <h1><%= @party.party_name %>  <span class="button">View Party Details</span></h1>
+      <div class="party_description">
+        <h2 class="cf"><span>Party Type:</span><%= @party.party_type %></h2>
+        <h2 class="cf"><span>Party Location:</span><%= @party.party_location %></h2>
+        <h2 class="cf"><span>Party Time:</span><%= @party.start_date.strftime("%B %d, %Y at %I:%M%p") %></h2>
+        <h2 class="cf"><span>Party Identifier:</span><%= @party.identifier %></h2>
+        <p>Party Details</p>
+        <%= @party.party_details %>
+      </div>   
+  </div>
+
+
+
+  <div class="library">
+    <h2><%= @party.party_name %> Library:</h2>
+
+      <% if @party.songs.empty? %>
+          No songs have been added to this party's playlist.
+      <% else %>
+        <div>
+          <ul class="playlist_container">
+          <% @party.songs.select{|s| s.score == 0}.sort!{|f1,f2|f2.score.to_i <=> f1.score.to_i}.each do |f| %>
+              <li class="playlist_row cf"> 
+                <p><%= f.song_name %></p>
+                <p><%= f.song_artist %></p>
+
+
+                <p>
+                  <% if !session[:votes].include? f.id %>
+                    <%= link_to 'Add to Setlist!', :controller => 'songs', :action => 'vote_up', :id => f.id %>
+                  <% else %>
+                    Already played.
+                  <% end %>
+                </p>
+
+              </li>
+          <% end %>
+        </ul> 
+    <% end %>
+    </div>
+    </p>
+  </div>
+
+  <div style="text-align:center;">
+    <%= link_to 'Back to Setlist', :controller => 'parties', :action => 'show'%>
+
+  </div>
+</div> 

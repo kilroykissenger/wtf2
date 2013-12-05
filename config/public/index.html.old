@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DJ Sync</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+<div id="home_container">
+
+    <img src="logo.gif" alt="logo"/>
+
+    <div >
+        <a href="parties">Join a Party</a>
+        <form>
+           Party Identifier: <input type="text" name="firstname"><br>
+        </form>
+
+    </div>
+    <div>
+        <a href="parties/new">Create a Party</a>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function(){
+        var windowHeight = $(window).height();
+        var windowWidth = $(window).width();
+
+        if(windowHeight>600){
+            $("#home_container").css("margin-top", (windowHeight-600)/2 + "px");
+        }else{
+
+        }
+
+        $(window).resize(function(){
+            windowHeight = $(window).height();
+            windowWidth = $(window).width();
+
+            console.log(windowWidth);
+            console.log(windowHeight);
+            if(windowHeight>600){
+                $("#home_container").css("margin-top", (windowHeight-600)/2 + "px");
+            }else{
+
+            }
+        })
+
+    })//end function
+
+</script>
+
+<style type="text/css">
+    #home_container{
+        width: 300px;
+        margin-right: auto;
+        margin-left: auto;
+
+    }
+
+    #home_container a{
+        display: block;
+        background: #0066cf;
+        text-align: center;
+        margin-bottom: 15px;
+        font-family: arial;
+        font-size: 30px;
+        text-transform: uppercase;
+        color: #fff;
+        text-decoration: none;
+        padding: 4px 0px 3px 0px;
+    }
+
+</style>
+</body>
+</html>

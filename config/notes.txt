@@ -1,0 +1,3 @@
+Omniauth:  
+	OAuth integration: Facebook, Twitter, LinkedIn
+	You can keep user authentication mechanism
