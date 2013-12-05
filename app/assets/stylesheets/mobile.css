@@ -1,0 +1,94 @@
+#nav_container{height: auto;background: #666;}
+#nav{height: auto;width: auto;}
+#nav > ul{height: auto; width: auto;}
+#nav > ul > li{float: none; text-align: center; margin: 0px; padding: 0px; }
+#nav > ul > li:last-child{float: none; }
+#nav > ul > li:first-child{margin: 0px;}
+#nav > ul > li > a{text-align: center; padding: 0px;}
+#nav > ul > li > div{width: 100%; }
+#nav > ul > li:hover > div{left: 0px; }
+
+.party_header{margin-top: 20px; }
+
+.party_header h1{
+	text-align: center;
+	padding: 0px;
+}
+
+.party_header h1 span{
+	position: static; 
+	display: block;
+	margin: 10px auto 0px auto;
+}
+
+
+.party_description{padding: 0px 10px 10px 10px;}
+
+.party_description h2 span{
+	display: block;
+	float: none;
+	width: 100%;
+	margin: 10px 0px 0px 0px;
+}
+
+.playlist h2{
+	text-align: center;
+}
+
+ul.playlist_container li{
+	padding: 10px 0px
+}
+
+#contentdiv ul.playlist_container li p:first-child{
+	float: none;
+	width: 100%;
+	text-align: center;
+	margin: 0px 0px 10px 0px;
+}
+
+
+#contentdiv ul.playlist_container li p:last-child:nth-of-type(3){
+	float: right;
+	width: 45%;
+	text-align: left;
+}
+
+#contentdiv ul.playlist_container li p:last-child:nth-of-type(4){
+	display: block;
+	float: none; 
+	width: 100%; 
+	text-align: center;
+	padding-left: 0px;
+	margin-top: 10px;
+}
+
+#contentdiv ul.playlist_container li p{
+	float: left; 
+	width: 45%;
+	text-align: left;
+
+}
+
+#contentdiv ul.playlist_container li p:nth-of-type(2){
+	text-align: right; 
+	padding-left: 0px;
+}
+
+#contentdiv .playlist ul.playlist_container li p{
+	display: block;
+	font: none; 
+	width: 100%; 
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+

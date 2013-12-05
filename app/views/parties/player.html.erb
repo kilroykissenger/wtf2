@@ -1,0 +1,70 @@
+<div id="nav_container">
+  <nav id="nav">
+    <ul class="cf">
+      <li>DJ<span>SYNC</span></li>
+      <li><a href="/parties/<%=@party.id%>/">Setlist</a></li>
+      <li><a href="/parties/<%=@party.id%>/library">Library</a></li>
+      <!--<li><a href="">Party</a>
+        <div>
+          <ul>
+            <li><a href="">Join Party</a></li>
+            <li><a href="">Create Party</a></li>
+          </ul>
+        </div>
+      </li>-->
+    </ul>
+  </nav>
+</div>
+
+<div id="contentdiv">
+  <% if flash[:notice] %>
+      <div id="notice">
+        <%= flash[:notice] %>
+      </div>
+  <% end %>
+  <br/>
+  <div class="party_header">
+    <h1><%= @party.party_name %>  <span class="button">View Party Details</span></h1>
+    <div class="party_description">
+      <h2 class="cf"><span>Party Type:</span><%= @party.party_type %></h2>
+      <h2 class="cf"><span>Party Location:</span><%= @party.party_location %></h2>
+      <h2 class="cf"><span>Party Time:</span><%= @party.start_date.strftime("%B %d, %Y at %I:%M%p") %></h2>
+      <h2 class="cf"><span>Party Identifier:</span><%= @party.identifier %></h2>
+      <p>Party Details</p>
+      <%= @party.party_details %>
+    </div>
+  </div>
+
+<div class="player">
+
+<% playlist = @party.songs.select{|s| s.score > 0}.sort!{|f1,f2|f2.score.to_i <=> f1.score.to_i} %>
+
+Now Playing: <%= playlist.first.song_name %> by <%= playlist.first.song_artist %> <br/><br/>
+
+<audio controls autoplay id="player">
+  <source src="<%= playlist.first.song_location %>" type="audio/mpeg">
+</audio>
+
+  <%= link_to 'Play Next Song', {:controller => 'songs', :action => 'reset', :id => playlist.first.id}, :class=> 'next_song'%>
+
+</div>
+
+</div>
+
+<script type='text/javascript'>
+
+  $(function(){
+    $("#player").bind('ended', function(){
+    // done playing
+      console.log("song done!")
+      $(".next_song").trigger('click');
+    });
+
+    $(".next_song").click(function(){
+      $(".next_song").css("background","black");
+    });
+
+
+  }); 
+
+</script>

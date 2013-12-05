@@ -1,0 +1,70 @@
+
+  <%= form_for(@party, multipart: true) do |f| %>
+    <% if @party.errors.any? %>
+      <div id="error_explanation">
+        <h2><%= pluralize(@party.errors.count, "error") %> prohibited this party from being saved:</h2>
+
+        <ul>
+        <% @party.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <div class="field">
+      <label>
+        What is your party name?
+      </label>
+      <%= f.text_field :party_name %>
+    </div>
+
+
+    <div class="field">
+      <label>
+        What type of party is it?
+      </label>
+      <%= f.text_field :party_type %>
+    </div>
+
+    <div class="field">
+      <label>
+        Where are you partying?
+      </label>
+      <%= f.text_field :party_location %>
+    </div>
+
+    <div class="field">
+      <label>
+        When does your party begin?
+      </label>
+      <div class="select"><%= f.datetime_select :start_date, :ampm => true, :start_year => 2013, :start_minute => 0, :order => [:month, :day, :year] %></div>
+    </div>
+
+    <div class="field">
+      <label>
+        When does your party end?
+      </label>
+      <div class="select"><%= f.datetime_select :end_date, :ampm => true, :order => [:month, :day, :year] %></div>
+    </div>
+
+    <div class="field">
+      <label>
+        Any additional details?
+      </label>
+      <%= f.text_area :party_details %>
+    </div>
+
+    <div class="field">
+      <label>
+        Upload your Playlist!
+      </label>
+        <%= f.file_field :playlist %>
+    </div>
+
+    <div class="actions cf">
+      <%= f.submit %>
+    </div>
+
+    <div class="clear"></div> 
+  <% end %>

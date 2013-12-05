@@ -1,0 +1,3097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<Major_Version>1</Major_Version>
+	<Minor_Version>1</Minor_Version>
+	<key>Date</key><date>2013-12-03T21:13:53Z</date>
+	<Application_Version>11.1.3</Application_Version>
+	<Features>5</Features>
+	<Show_Content_Ratings>true</Show_Content_Ratings>
+	<Music_Folder>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/</Music_Folder>
+	<Library_Persistent_ID>D764EB3F2F0BD222</Library_Persistent_ID>
+	<key>Tracks</key>
+	<dict>
+		<key>8413</key>
+		<dict>
+			<Track_ID>8413</Track_ID>
+			<Name>So Contagious</Name>
+			<Artist>Acceptance</Artist>
+			<Album>Phantoms</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5028186</Size>
+			<Total_Time>186174</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:19:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:24:11Z</date>
+			<Bit_Rate>215</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>6</Play_Count>
+			<Play_Date>3468227410</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:30:10Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-05T23:55:50Z</date>
+			<Normalization>6354</Normalization>
+			<Persistent_ID>473D2BA5FFE1C83E</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Acceptance/Phantoms/09%20So%20Contagious.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>8701</key>
+		<dict>
+			<Track_ID>8701</Track_ID>
+			<Name>Another Perfect Day</Name>
+			<Artist>American Hi-Fi</Artist>
+			<Genre>genre</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3508224</Size>
+			<Total_Time>219193</Total_Time>
+			<Track_Number>9</Track_Number>
+			<key>Date Modified</key><date>2008-12-27T00:19:36Z</date>
+			<key>Date Added</key><date>2013-07-14T06:24:14Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>7</Play_Count>
+			<Play_Date>3466860001</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-09T21:40:01Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T23:47:09Z</date>
+			<Normalization>9495</Normalization>
+			<Persistent_ID>6EFC60234033CE86</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/American%20Hi-Fi/Unknown%20Album/09%20Another%20Perfect%20Day.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>10849</key>
+		<dict>
+			<Track_ID>10849</Track_ID>
+			<Name>All the Small Things</Name>
+			<Artist>Blink-182</Artist>
+			<Album_Artist>Blink-182</Album_Artist>
+			<Album>Enema of the State</Album>
+			<Genre>Rock</Genre>
+			<Kind>Protected AAC audio file</Kind>
+			<Size>2869008</Size>
+			<Total_Time>167948</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>8</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>1999</Year>
+			<key>Date Modified</key><date>2010-04-16T20:03:50Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:33Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>11</Play_Count>
+			<Play_Date>3466859105</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-09T21:25:05Z</date>
+			<key>Release Date</key><date>1999-06-01T07:00:00Z</date>
+			<Normalization>8877</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>0CE387A5FAC6AB53</Persistent_ID>
+			<Explicit>true</Explicit>
+			<Track_Type>File</Track_Type>
+			<Protected>true</Protected>
+			<Purchased>true</Purchased>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Blink-182/Enema%20of%20the%20State/08%20All%20the%20Small%20Things.m4p</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>10871</key>
+		<dict>
+			<Track_ID>10871</Track_ID>
+			<Name>Feeling This</Name>
+			<Artist>Blink-182</Artist>
+			<Album>Madden 2004 PS2 (Digital Rip)</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4169728</Size>
+			<Total_Time>173662</Total_Time>
+			<Track_Number>1</Track_Number>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:20:16Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:36Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>ripped by PhilOzzy for bRB</Comments>
+			<Play_Count>9</Play_Count>
+			<Play_Date>3463670415</Play_Date>
+			<key>Play Date UTC</key><date>2013-10-03T23:40:15Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-19T16:55:05Z</date>
+			<Normalization>3704</Normalization>
+			<Persistent_ID>77C40DD6BBD7772C</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Blink-182/Madden%202004%20PS2%20(Digital%20Rip)/01%20Feeling%20This.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>10901</key>
+		<dict>
+			<Track_ID>10901</Track_ID>
+			<Name>Adam's song</Name>
+			<Artist>Blink-182</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>4035805</Size>
+			<Total_Time>251585</Total_Time>
+			<Year>1999</Year>
+			<key>Date Modified</key><date>2009-10-05T22:24:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:36Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>http://www.themusiclover.com</Comments>
+			<Play_Count>5</Play_Count>
+			<Play_Date>3463670072</Play_Date>
+			<key>Play Date UTC</key><date>2013-10-03T23:34:32Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:22:17Z</date>
+			<Normalization>6672</Normalization>
+			<Persistent_ID>8963DB89664A924D</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Blink-182/Unknown%20Album/Adam's%20song.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>10907</key>
+		<dict>
+			<Track_ID>10907</Track_ID>
+			<Name>I Miss You</Name>
+			<Artist>Blink-182</Artist>
+			<Album>Untitled</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5457775</Size>
+			<Total_Time>227369</Total_Time>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:20:16Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:36Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Wed Ripped by ChikoWolf</Comments>
+			<Play_Count>8</Play_Count>
+			<Play_Date>3468234940</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T19:35:40Z</date>
+			<Skip_Count>3</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:22:15Z</date>
+			<Normalization>2910</Normalization>
+			<Persistent_ID>C1CBEDE8CD320BA9</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Blink-182/Untitled/I%20Miss%20You.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>11505</key>
+		<dict>
+			<Track_ID>11505</Track_ID>
+			<Name>1985</Name>
+			<Artist>Bowling For Soup</Artist>
+			<Album>A Hangover You Don't Deserve</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>2728064</Size>
+			<Total_Time>194690</Total_Time>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:20:24Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:58Z</date>
+			<Bit_Rate>112</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Normalization>5328</Normalization>
+			<Sort_Album>Hangover You Don't Deserve</Sort_Album>
+			<Persistent_ID>F1E7C0B71DCC2D7A</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Bowling%20For%20Soup/A%20Hangover%20You%20Don't%20Deserve/1985.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>11507</key>
+		<dict>
+			<Track_ID>11507</Track_ID>
+			<Name>Almost</Name>
+			<Artist>Bowling For Soup</Artist>
+			<Album>A Hangover You Dont Deserv</Album>
+			<Genre>General Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4950016</Size>
+			<Total_Time>206184</Total_Time>
+			<Track_Number>1</Track_Number>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:20:26Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:58Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ripped by Winamp</Comments>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-12-03T05:44:31Z</date>
+			<Normalization>9468</Normalization>
+			<Sort_Album>Hangover You Dont Deserv</Sort_Album>
+			<Persistent_ID>91D2227823CFE100</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Bowling%20For%20Soup/A%20Hangover%20You%20Dont%20Deserv/01%20Almost.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>11509</key>
+		<dict>
+			<Track_ID>11509</Track_ID>
+			<Name>Girl All The Bad Guys Want </Name>
+			<Artist>Bowling For Soup</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>3432476</Size>
+			<Total_Time>214517</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:20:26Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:58Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Normalization>2871</Normalization>
+			<Persistent_ID>5364EA9A732C02C5</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Bowling%20For%20Soup/Unknown%20Album/Girl%20All%20The%20Bad%20Guys%20Want.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>11511</key>
+		<dict>
+			<Track_ID>11511</Track_ID>
+			<Name>High School Never Ends</Name>
+			<Artist>Bowling For Soup</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>8339673</Size>
+			<Total_Time>208431</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:20:26Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:58Z</date>
+			<Bit_Rate>320</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3468876483</Play_Date>
+			<key>Play Date UTC</key><date>2013-12-03T05:48:03Z</date>
+			<Normalization>17911</Normalization>
+			<Persistent_ID>D83F784DBC48E897</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Bowling%20For%20Soup/Unknown%20Album/High%20School%20Never%20Ends.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>11513</key>
+		<dict>
+			<Track_ID>11513</Track_ID>
+			<Name>Punk Rock 101</Name>
+			<Artist>Bowling For Soup</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>5863424</Size>
+			<Total_Time>183196</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:20:26Z</date>
+			<key>Date Added</key><date>2013-07-14T06:25:59Z</date>
+			<Bit_Rate>256</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>5</Play_Count>
+			<Play_Date>3468876666</Play_Date>
+			<key>Play Date UTC</key><date>2013-12-03T05:51:06Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-12-03T05:44:34Z</date>
+			<Normalization>7171</Normalization>
+			<Persistent_ID>24AD3E62BE79B819</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Bowling%20For%20Soup/Unknown%20Album/Punk%20Rock%20101.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>11877</key>
+		<dict>
+			<Track_ID>11877</Track_ID>
+			<Name>Frank Sinatra</Name>
+			<Artist>Cake</Artist>
+			<Album>Fashion Nugget</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5848318</Size>
+			<Total_Time>241136</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>1</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>1996</Year>
+			<key>Date Modified</key><date>2008-12-27T00:20:34Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:17Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>7</Play_Count>
+			<Play_Date>3468228094</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:41:34Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:01:06Z</date>
+			<Normalization>1894</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>C959B53EDEBC630E</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Cake/Fashion%20Nugget/01%20Frank%20Sinatra.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>11879</key>
+		<dict>
+			<Track_ID>11879</Track_ID>
+			<Name>The Distance</Name>
+			<Artist>Cake</Artist>
+			<Album>Fashion Nugget</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4396327</Size>
+			<Total_Time>180636</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>2</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>1996</Year>
+			<key>Date Modified</key><date>2008-12-27T00:20:34Z</date>
+			<key>Date Added</key><date>2013-07-14T06:26:17Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>10</Play_Count>
+			<Play_Date>3468619576</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-30T06:26:16Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T21:33:40Z</date>
+			<Normalization>2278</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Name>Distance</Sort_Name>
+			<Persistent_ID>F1A30A1A8CD04BEC</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Cake/Fashion%20Nugget/02%20The%20Distance.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>14117</key>
+		<dict>
+			<Track_ID>14117</Track_ID>
+			<Name>Hip Hop Hooray</Name>
+			<Artist>Naughty By Nature</Artist>
+			<Album>Millennium Hip-Hop Party</Album>
+			<Genre>Hip Hop/Rap</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6352483</Size>
+			<Total_Time>264594</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>16</Track_Number>
+			<Track_Count>18</Track_Count>
+			<Year>1999</Year>
+			<key>Date Modified</key><date>2008-12-27T00:24:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:27:01Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Normalization>1348</Normalization>
+			<Compilation>true</Compilation>
+			<Persistent_ID>EC2A40171BDFE8CB</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Compilations/Millennium%20Hip-Hop%20Party/16%20Hip%20Hop%20Hooray.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>14233</key>
+		<dict>
+			<Track_ID>14233</Track_ID>
+			<Name>Fly</Name>
+			<Artist>Sugar Ray</Artist>
+			<Album>Party To Go 1999</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6705416</Size>
+			<Total_Time>279301</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>10</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>1998</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:27:02Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>5</Play_Count>
+			<Play_Date>3468226340</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:12:20Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:01:04Z</date>
+			<Normalization>3531</Normalization>
+			<Compilation>true</Compilation>
+			<Persistent_ID>AC318A25FD873456</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Compilations/Party%20To%20Go%201999/10%20Fly.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17859</key>
+		<dict>
+			<Track_ID>17859</Track_ID>
+			<Name>Of All The Gin Joints In All The World</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5761177</Size>
+			<Total_Time>194168</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Track_Count>7</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>231</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>7</Play_Count>
+			<Play_Date>3463676157</Play_Date>
+			<key>Play Date UTC</key><date>2013-10-04T01:15:57Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-11T01:02:52Z</date>
+			<Normalization>12972</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>F6200883B8F15BE1</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/02%20Of%20All%20The%20Gin%20Joints%20In%20All%20The%20World.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17861</key>
+		<dict>
+			<Track_ID>17861</Track_ID>
+			<Name>Dance Dance</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>5279309</Size>
+			<Total_Time>180114</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>228</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>7</Play_Count>
+			<Play_Date>3467048289</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-12T01:58:09Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-10T00:14:06Z</date>
+			<Normalization>8782</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>BBE380AE2C088A04</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/03%20Dance%20Dance.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17863</key>
+		<dict>
+			<Track_ID>17863</Track_ID>
+			<Name>Snitches And Talkers Get Stiches And Walkers</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Composer>Stump/Wentz</Composer>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3426528</Size>
+			<Total_Time>171206</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>3</Track_Number>
+			<Track_Count>3</Track_Count>
+			<Year>2006</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments> 000064C7 000022EB 0001B50F 0000D4E5 00020E1F 0000D8F0 00008D24 00008D43 0001CC00 0001F792</Comments>
+			<Play_Count>6</Play_Count>
+			<Play_Date>3459235849</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-13T15:50:49Z</date>
+			<Normalization>16791</Normalization>
+			<Persistent_ID>4710FE83B0BC777C</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/03%20Snitches%20And%20Talkers%20Get%20Stiches%20And%20Walkers.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17867</key>
+		<dict>
+			<Track_ID>17867</Track_ID>
+			<Name>Sugar, We're Going Down</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6391165</Size>
+			<Total_Time>216006</Total_Time>
+			<Track_Number>4</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>231</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3458852065</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-09T05:14:25Z</date>
+			<Normalization>6775</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>B3475D125CC9C9D5</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/04%20Sugar,%20We're%20Going%20Down.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17869</key>
+		<dict>
+			<Track_ID>17869</Track_ID>
+			<Name>Nobody Puts Baby In The Corner</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6073528</Size>
+			<Total_Time>200803</Total_Time>
+			<Track_Number>5</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>236</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-08-09T05:14:28Z</date>
+			<Normalization>7362</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>A0E50E25B631581E</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/05%20Nobody%20Puts%20Baby%20In%20The%20Corner.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17873</key>
+		<dict>
+			<Track_ID>17873</Track_ID>
+			<Name>7 Minutes In Heaven (Atavan Halen)</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Pop Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5275648</Size>
+			<Total_Time>182935</Total_Time>
+			<Track_Number>7</Track_Number>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>230</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458852251</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-09T05:17:31Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-05T14:30:54Z</date>
+			<Normalization>10466</Normalization>
+			<Persistent_ID>72547E87F55D2AA6</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/07%207%20Minutes%20In%20Heaven%20(Atavan%20Halen).mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17875</key>
+		<dict>
+			<Track_ID>17875</Track_ID>
+			<Name>Sophomore Slump Or Comeback Of The Year</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6335223</Size>
+			<Total_Time>203807</Total_Time>
+			<Track_Number>8</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>242</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3463676478</Play_Date>
+			<key>Play Date UTC</key><date>2013-10-04T01:21:18Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-30T07:22:35Z</date>
+			<Normalization>8335</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>7BEFCC72BA980AB8</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/08%20Sophomore%20Slump%20Or%20Comeback%20Of%20The%20Year.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17877</key>
+		<dict>
+			<Track_ID>17877</Track_ID>
+			<Name>Champagne For My Real Friends, Real Pain For My Sham Friends</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5927564</Size>
+			<Total_Time>206524</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>223</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3466856665</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-09T20:44:25Z</date>
+			<Normalization>11508</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>FD265AA6D0B6CD51</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/09%20Champagne%20For%20My%20Real%20Friends,%20Real%20Pain%20For%20My%20Sham%20Friends.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17881</key>
+		<dict>
+			<Track_ID>17881</Track_ID>
+			<Name>A Little Less Sixteen Candles, A Little More Touch Me</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5086757</Size>
+			<Total_Time>167497</Total_Time>
+			<Track_Number>11</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:00Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>235</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458540304</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T14:38:24Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T23:47:20Z</date>
+			<Normalization>10145</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Name>Little Less Sixteen Candles, A Little More Touch Me</Sort_Name>
+			<Persistent_ID>064E4B968A14EDB1</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/11%20A%20Little%20Less%20Sixteen%20Candles,%20A%20Little%20More%20Touch%20Me.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17887</key>
+		<dict>
+			<Track_ID>17887</Track_ID>
+			<Name>XO</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>From Under The Cork Tree</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6172224</Size>
+			<Total_Time>220708</Total_Time>
+			<Track_Number>13</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>218</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458540525</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T14:42:05Z</date>
+			<Normalization>10851</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>7553DBC1EA2C7068</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/From%20Under%20The%20Cork%20Tree/13%20XO.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17895</key>
+		<dict>
+			<Track_ID>17895</Track_ID>
+			<Name>I'm Like A Lawyer With The Way I'm Always Trying To Get You Off (Me &#38; You)</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Infinity On High</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>3443531</Size>
+			<Total_Time>211720</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>4</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2007</Year>
+			<key>Date Modified</key><date>2010-01-26T02:03:24Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458540738</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T14:45:38Z</date>
+			<Normalization>10687</Normalization>
+			<Persistent_ID>962881CB172D9C57</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Infinity%20On%20High/04%20I'm%20Like%20A%20Lawyer%20With%20The%20Way%20I'm%20Always%20Trying%20To%20Get%20You%20Off%20(Me%20&#38;%20You).m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17901</key>
+		<dict>
+			<Track_ID>17901</Track_ID>
+			<Name>Don't You Know Who I Think I Am?</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Infinity On High</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>2805118</Size>
+			<Total_Time>171960</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>8</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2007</Year>
+			<key>Date Modified</key><date>2010-01-26T02:03:24Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458540910</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T14:48:30Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-12T01:59:48Z</date>
+			<Normalization>14501</Normalization>
+			<Persistent_ID>5051A59B1C2A2932</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Infinity%20On%20High/08%20Don't%20You%20Know%20Who%20I%20Think%20I%20Am_.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17903</key>
+		<dict>
+			<Track_ID>17903</Track_ID>
+			<Name>The (After) Life Of The Party</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Infinity On High</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>3282489</Size>
+			<Total_Time>201706</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>9</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2007</Year>
+			<key>Date Modified</key><date>2010-01-26T02:03:26Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T23:48:32Z</date>
+			<Normalization>9255</Normalization>
+			<Sort_Name>(After) Life Of The Party</Sort_Name>
+			<Persistent_ID>1FE5355A68077FBA</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Infinity%20On%20High/09%20The%20(After)%20Life%20Of%20The%20Party.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17905</key>
+		<dict>
+			<Track_ID>17905</Track_ID>
+			<Name>Bang The Doldrums</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Infinity On High</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>3437501</Size>
+			<Total_Time>211333</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>11</Track_Number>
+			<Track_Count>14</Track_Count>
+			<Year>2007</Year>
+			<key>Date Modified</key><date>2010-01-26T02:03:26Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3458801794</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-08T15:16:34Z</date>
+			<Normalization>9993</Normalization>
+			<Persistent_ID>CF3381F09D0B83BC</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Infinity%20On%20High/11%20Bang%20The%20Doldrums.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17917</key>
+		<dict>
+			<Track_ID>17917</Track_ID>
+			<Name>The Carpal Tunnel of Love</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Infinity On High</Album>
+			<Genre>Other</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4765739</Size>
+			<Total_Time>198478</Total_Time>
+			<Year>2006</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:58Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Normalization>11915</Normalization>
+			<Sort_Name>Carpal Tunnel of Love</Sort_Name>
+			<Persistent_ID>44C08FAA4698DDCE</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Infinity%20On%20High/The%20Carpal%20Tunnel%20of%20Love.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17931</key>
+		<dict>
+			<Track_ID>17931</Track_ID>
+			<Name>Dead On Arrival</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Take This To Your Grave</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4690122</Size>
+			<Total_Time>194586</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:59Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458801989</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-08T15:19:49Z</date>
+			<Normalization>8830</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>5D1A11B9DC80EF78</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Take%20This%20To%20Your%20Grave/02%20Dead%20On%20Arrival.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17933</key>
+		<dict>
+			<Track_ID>17933</Track_ID>
+			<Name>Grand Theft Autumn</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Take This To Your Grave</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4615520</Size>
+			<Total_Time>191477</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:59Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458541120</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T14:52:00Z</date>
+			<Normalization>7638</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>FE45AD6D6DA03D3C</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Take%20This%20To%20Your%20Grave/03%20Grand%20Theft%20Autumn.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17937</key>
+		<dict>
+			<Track_ID>17937</Track_ID>
+			<Name>Homesick At Space Camp</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Take This To Your Grave</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4546561</Size>
+			<Total_Time>188604</Total_Time>
+			<Track_Number>5</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:59Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458541308</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T14:55:08Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T15:22:44Z</date>
+			<Normalization>8494</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>107AABD64F236A88</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Take%20This%20To%20Your%20Grave/05%20Homesick%20At%20Space%20Camp.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17939</key>
+		<dict>
+			<Track_ID>17939</Track_ID>
+			<Name>Sending Postcards From A Plane Crash (Wish You Were Here)</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Take This To Your Grave</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4263282</Size>
+			<Total_Time>176796</Total_Time>
+			<Track_Number>6</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:59Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458541485</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T14:58:05Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-05T23:23:57Z</date>
+			<Normalization>8402</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>23FAFB1B1209561C</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Take%20This%20To%20Your%20Grave/06%20Sending%20Postcards%20From%20A%20Plane%20Crash%20(Wish%20You%20Were%20Here).mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>17941</key>
+		<dict>
+			<Track_ID>17941</Track_ID>
+			<Name>Chicago Is So Two Years Ago</Name>
+			<Artist>Fall Out Boy</Artist>
+			<Album>Take This To Your Grave</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4818657</Size>
+			<Total_Time>199941</Total_Time>
+			<Track_Number>7</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:28:59Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458541945</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T15:05:45Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-08-05T23:24:02Z</date>
+			<Normalization>8122</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>5DDC3CC6B602C9DA</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Fall%20Out%20Boy/Take%20This%20To%20Your%20Grave/07%20Chicago%20Is%20So%20Two%20Years%20Ago.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>20935</key>
+		<dict>
+			<Track_ID>20935</Track_ID>
+			<Name>The Remedy</Name>
+			<Artist>Jason Mraz</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>4112117</Size>
+			<Total_Time>256339</Total_Time>
+			<key>Date Modified</key><date>2009-10-06T00:25:46Z</date>
+			<key>Date Added</key><date>2013-07-14T06:30:40Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3468003459</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:17:39Z</date>
+			<Normalization>6400</Normalization>
+			<Sort_Name>Remedy</Sort_Name>
+			<Persistent_ID>700B9CE74F107F35</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Jason%20Mraz/Unknown%20Album/The%20Remedy.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>23121</key>
+		<dict>
+			<Track_ID>23121</Track_ID>
+			<Name>Hanging By A Moment</Name>
+			<Artist>Lifehouse</Artist>
+			<Album>Blanket I</Album>
+			<Genre>rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3473408</Size>
+			<Total_Time>217051</Total_Time>
+			<Track_Number>1</Track_Number>
+			<key>Date Modified</key><date>2008-12-27T00:23:04Z</date>
+			<key>Date Added</key><date>2013-07-14T06:32:19Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3468004590</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:36:30Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-08-19T13:10:36Z</date>
+			<Normalization>5513</Normalization>
+			<Persistent_ID>05D930BA1AF31152</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Lifehouse/Blanket%20I/01%20Hanging%20By%20A%20Moment.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>25627</key>
+		<dict>
+			<Track_ID>25627</Track_ID>
+			<Name>Faint</Name>
+			<Artist>Linkin Park</Artist>
+			<Album>Meteora</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>3963438</Size>
+			<Total_Time>162063</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:23:06Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:24Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>5</Play_Count>
+			<Play_Date>3468925501</Play_Date>
+			<key>Play Date UTC</key><date>2013-12-03T19:25:01Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-08-19T13:10:42Z</date>
+			<Normalization>12202</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>42B1648817806F08</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Linkin%20Park/Meteora/Faint.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>25819</key>
+		<dict>
+			<Track_ID>25819</Track_ID>
+			<Name>Last Train Home</Name>
+			<Artist>Lostprophets</Artist>
+			<Album>Start Something</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>4414460</Size>
+			<Total_Time>275252</Total_Time>
+			<key>Date Modified</key><date>2009-10-06T00:36:30Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:27Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3468005027</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:43:47Z</date>
+			<Normalization>7851</Normalization>
+			<Persistent_ID>86CC9639D365F369</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Lostprophets/Start%20Something/Last%20Train%20Home.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26583</key>
+		<dict>
+			<Track_ID>26583</Track_ID>
+			<Name>Harder To Breathe</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4275990</Size>
+			<Total_Time>175856</Total_Time>
+			<Track_Number>1</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3468005203</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:46:43Z</date>
+			<Skip_Count>3</Skip_Count>
+			<key>Skip Date</key><date>2013-11-25T20:22:55Z</date>
+			<Normalization>7367</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>540881886351851F</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/01%20Harder%20To%20Breathe.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26585</key>
+		<dict>
+			<Track_ID>26585</Track_ID>
+			<Name>This Love</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5070314</Size>
+			<Total_Time>208953</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>6</Play_Count>
+			<Play_Date>3468329750</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-26T21:55:50Z</date>
+			<Normalization>5544</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>C3C8A464359CFADD</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/02%20This%20Love.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26587</key>
+		<dict>
+			<Track_ID>26587</Track_ID>
+			<Name>Shiver</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4422056</Size>
+			<Total_Time>181942</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3468005594</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:53:14Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-25T20:22:49Z</date>
+			<Normalization>8618</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>89EC60AB70971CA0</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/03%20Shiver.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26589</key>
+		<dict>
+			<Track_ID>26589</Track_ID>
+			<Name>She Will Be Loved</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6292852</Size>
+			<Total_Time>259892</Total_Time>
+			<Track_Number>4</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3467999779</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T02:16:19Z</date>
+			<Skip_Count>4</Skip_Count>
+			<key>Skip Date</key><date>2013-11-25T20:30:31Z</date>
+			<Normalization>5087</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>AB68679A9FF5FF5A</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/04%20She%20Will%20Be%20Loved.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26591</key>
+		<dict>
+			<Track_ID>26591</Track_ID>
+			<Name>Tangled</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4863422</Size>
+			<Total_Time>200333</Total_Time>
+			<Track_Number>5</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3467999979</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T02:19:39Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-25T20:34:26Z</date>
+			<Normalization>5741</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>2353CA16418B0025</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/05%20Tangled.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26593</key>
+		<dict>
+			<Track_ID>26593</Track_ID>
+			<Name>The Sun</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6148020</Size>
+			<Total_Time>253857</Total_Time>
+			<Track_Number>6</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>6</Play_Count>
+			<Play_Date>3468757852</Play_Date>
+			<key>Play Date UTC</key><date>2013-12-01T20:50:52Z</date>
+			<Normalization>5087</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Name>Sun</Sort_Name>
+			<Persistent_ID>76BEA6C7E1A95920</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/06%20The%20Sun.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26595</key>
+		<dict>
+			<Track_ID>26595</Track_ID>
+			<Name>Must Get Out</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5853363</Size>
+			<Total_Time>241580</Total_Time>
+			<Track_Number>7</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3468000429</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T02:27:09Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-12-01T20:44:58Z</date>
+			<Normalization>4503</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>A712AB19C6884E52</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/07%20Must%20Get%20Out.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26597</key>
+		<dict>
+			<Track_ID>26597</Track_ID>
+			<Name>Sunday Morning</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6015115</Size>
+			<Total_Time>248320</Total_Time>
+			<Track_Number>8</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3468238023</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T20:27:03Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-23T03:58:04Z</date>
+			<Normalization>5544</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>B9873C4F0656FF84</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/08%20Sunday%20Morning.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26599</key>
+		<dict>
+			<Track_ID>26599</Track_ID>
+			<Name>Secret</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>7187483</Size>
+			<Total_Time>297168</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>5</Play_Count>
+			<Play_Date>3468328886</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-26T21:41:26Z</date>
+			<Normalization>2500</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>47000CA26F0D9DB2</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/09%20Secret.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26601</key>
+		<dict>
+			<Track_ID>26601</Track_ID>
+			<Name>Through With You</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4416424</Size>
+			<Total_Time>181707</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3468329102</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-26T21:45:02Z</date>
+			<Normalization>5166</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>60B2ACFCBF840359</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/09%20Through%20With%20You.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26603</key>
+		<dict>
+			<Track_ID>26603</Track_ID>
+			<Name>Not Coming Home (Live)</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6376868</Size>
+			<Total_Time>263392</Total_Time>
+			<Track_Number>11</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3468006612</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T04:10:12Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-25T20:34:33Z</date>
+			<Normalization>5804</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>44124B94B69B8534</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/11%20Not%20Coming%20Home%20(Live).mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26605</key>
+		<dict>
+			<Track_ID>26605</Track_ID>
+			<Name>Sweetest Goodbye</Name>
+			<Artist>Maroon 5</Artist>
+			<Album>Songs About Jane</Album>
+			<Genre>Pop</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6605068</Size>
+			<Total_Time>272901</Total_Time>
+			<Track_Number>12</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:37Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-23T04:10:17Z</date>
+			<Normalization>5546</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>376DBD14AD3CFAB0</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Maroon%205/Songs%20About%20Jane/12%20Sweetest%20Goodbye.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26761</key>
+		<dict>
+			<Track_ID>26761</Track_ID>
+			<Name>King Without a Crown</Name>
+			<Artist>Matisyahu</Artist>
+			<Album>Live at Stubb's</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>5856829</Size>
+			<Total_Time>288522</Total_Time>
+			<Track_Number>5</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:23:36Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:44Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Normalization>4807</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>7E61E934B9304FFF</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Matisyahu/Live%20at%20Stubb's/05%20King%20Without%20a%20Crown.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>26803</key>
+		<dict>
+			<Track_ID>26803</Track_ID>
+			<Name>So Much Trouble</Name>
+			<Artist>Matt Pond PA</Artist>
+			<Album>Several Arrows Later</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>7213387</Size>
+			<Total_Time>238471</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:23:38Z</date>
+			<key>Date Added</key><date>2013-07-14T06:34:44Z</date>
+			<Bit_Rate>236</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Track 2</Comments>
+			<Play_Count>6</Play_Count>
+			<Play_Date>3468006857</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T04:14:17Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-10-11T03:47:49Z</date>
+			<Normalization>5181</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>5584E90D0854A990</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Matt%20Pond%20PA/Several%20Arrows%20Later/02%20So%20Much%20Trouble.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>28085</key>
+		<dict>
+			<Track_ID>28085</Track_ID>
+			<Name>Everything is Alright</Name>
+			<Artist>Motion City Soundtrack</Artist>
+			<Album>Commit This to Memory</Album>
+			<Genre>Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5180432</Size>
+			<Total_Time>206053</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:23:48Z</date>
+			<key>Date Added</key><date>2013-07-14T06:35:22Z</date>
+			<Bit_Rate>200</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Grtst &#60;3's Coma</Comments>
+			<Play_Count>22</Play_Count>
+			<Play_Date>3467989724</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-22T23:28:44Z</date>
+			<Skip_Count>3</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T23:47:05Z</date>
+			<Normalization>9208</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>F3A3EB6BD95125ED</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Motion%20City%20Soundtrack/Commit%20This%20to%20Memory/02%20Everything%20is%20Alright.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>28623</key>
+		<dict>
+			<Track_ID>28623</Track_ID>
+			<Name>Teenagers</Name>
+			<Artist>My Chemical Romance</Artist>
+			<Album>The Black Parade</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>4479405</Size>
+			<Total_Time>161959</Total_Time>
+			<Track_Number>11</Track_Number>
+			<Track_Count>14</Track_Count>
+			<key>Date Modified</key><date>2009-10-06T01:04:36Z</date>
+			<key>Date Added</key><date>2013-07-14T06:35:56Z</date>
+			<Bit_Rate>221</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Track 11</Comments>
+			<Normalization>11040</Normalization>
+			<Sort_Album>Black Parade</Sort_Album>
+			<Persistent_ID>E6F454B80031B6B5</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/My%20Chemical%20Romance/The%20Black%20Parade/11%20Teenagers.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>28635</key>
+		<dict>
+			<Track_ID>28635</Track_ID>
+			<Name>Helena</Name>
+			<Artist>My Chemical Romance</Artist>
+			<Album>Three Cheers For Sweet Revenge</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5404664</Size>
+			<Total_Time>202866</Total_Time>
+			<Track_Number>1</Track_Number>
+			<Track_Count>13</Track_Count>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2009-10-06T01:04:52Z</date>
+			<key>Date Added</key><date>2013-07-14T06:35:56Z</date>
+			<Bit_Rate>213</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Track 1</Comments>
+			<Normalization>14597</Normalization>
+			<Persistent_ID>195270D427B46699</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/01%20Helena.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>28651</key>
+		<dict>
+			<Track_ID>28651</Track_ID>
+			<Name>The Ghost Of You</Name>
+			<Artist>My Chemical Romance</Artist>
+			<Album>Three Cheers For Sweet Revenge</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5163135</Size>
+			<Total_Time>203467</Total_Time>
+			<Track_Number>6</Track_Number>
+			<Track_Count>13</Track_Count>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2009-10-06T01:05:06Z</date>
+			<key>Date Added</key><date>2013-07-14T06:35:56Z</date>
+			<Bit_Rate>203</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Track 6</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3467660976</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-19T04:09:36Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-23T04:14:55Z</date>
+			<Normalization>10986</Normalization>
+			<Sort_Name>Ghost Of You</Sort_Name>
+			<Persistent_ID>39E5182871D0451F</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/06%20The%20Ghost%20Of%20You.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>28813</key>
+		<dict>
+			<Track_ID>28813</Track_ID>
+			<Name>Feel Me Flow</Name>
+			<Artist>Naughty By Nature</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>4299282</Size>
+			<Total_Time>214857</Total_Time>
+			<Track_Number>16</Track_Number>
+			<Track_Count>18</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:24:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:36:01Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Normalization>1762</Normalization>
+			<Persistent_ID>A1BE9C52C40EB33E</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Naughty%20By%20Nature/Unknown%20Album/16%20Feel%20Me%20Flow.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>28815</key>
+		<dict>
+			<Track_ID>28815</Track_ID>
+			<Name>Jump Around</Name>
+			<Artist>Naughty By Nature</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>3356791</Size>
+			<Total_Time>209789</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:24:02Z</date>
+			<key>Date Added</key><date>2013-07-14T06:36:01Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3467838902</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-21T05:35:02Z</date>
+			<Normalization>2950</Normalization>
+			<Persistent_ID>E9136225E72CEDB5</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Naughty%20By%20Nature/Unknown%20Album/Jump%20Around.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>28905</key>
+		<dict>
+			<Track_ID>28905</Track_ID>
+			<Name>Ride With Me</Name>
+			<Artist>Nelly</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>5880712</Size>
+			<Total_Time>293929</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Track_Count>18</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:24:04Z</date>
+			<key>Date Added</key><date>2013-07-14T06:36:03Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3467839265</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-21T05:41:05Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-11T01:02:54Z</date>
+			<Rating>100</Rating>
+			<Album_Rating>100</Album_Rating>
+			<Album_Rating_Computed>true</Album_Rating_Computed>
+			<Normalization>2634</Normalization>
+			<Persistent_ID>2D77AF45268A52FC</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Nelly/Unknown%20Album/03%20Ride%20With%20Me.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>29021</key>
+		<dict>
+			<Track_ID>29021</Track_ID>
+			<Name>Savin Me</Name>
+			<Artist>Nickelback</Artist>
+			<Album>All The Right Reasons</Album>
+			<Genre>Rock</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>3482174</Size>
+			<Total_Time>217617</Total_Time>
+			<Track_Number>19</Track_Number>
+			<Year>2006</Year>
+			<key>Date Modified</key><date>2010-01-24T22:43:30Z</date>
+			<key>Date Added</key><date>2013-07-14T06:36:07Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Normalization>10966</Normalization>
+			<Persistent_ID>167D6E6E23E4F45E</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Nickelback/All%20The%20Right%20Reasons/19%20Savin%20Me.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>29135</key>
+		<dict>
+			<Track_ID>29135</Track_ID>
+			<Name>Someday</Name>
+			<Artist>Nickelback</Artist>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5030979</Size>
+			<Total_Time>209188</Total_Time>
+			<key>Date Modified</key><date>2009-10-06T01:06:52Z</date>
+			<key>Date Added</key><date>2013-07-14T06:36:09Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-23T04:15:41Z</date>
+			<Normalization>7645</Normalization>
+			<Persistent_ID>F0B90B70E116C5A0</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Nickelback/Unknown%20Album/Someday.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>31023</key>
+		<dict>
+			<Track_ID>31023</Track_ID>
+			<Name>The Only Difference Between Martyrdom and Suicide is Press Coverage</Name>
+			<Artist>Panic At the Disco</Artist>
+			<Album>A Fever You Can't Sweat Out</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5210774</Size>
+			<Total_Time>174915</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Track_Count>13</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2011-02-09T16:03:50Z</date>
+			<key>Date Added</key><date>2013-07-14T06:38:12Z</date>
+			<Bit_Rate>229</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3467369158</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-15T19:05:58Z</date>
+			<Normalization>5319</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Album>Fever You Can't Sweat Out</Sort_Album>
+			<Sort_Name>Only Difference Between Martyrdom and Suicide is Press Coverage</Sort_Name>
+			<Persistent_ID>33DDE20A06C1F0E3</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Panic%20At%20the%20Disco/A%20Fever%20You%20Can't%20Sweat%20Out/02%20The%20Only%20Difference%20Between%20Martyrdom%20and%20Suicide%20is%20Press%20Coverage.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>31025</key>
+		<dict>
+			<Track_ID>31025</Track_ID>
+			<Name>London Beckoned Songs About Money By Machines</Name>
+			<Artist>Panic At the Disco</Artist>
+			<Album>A Fever You Can't Sweat Out</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5077836</Size>
+			<Total_Time>203676</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Track_Count>13</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2011-02-09T16:03:50Z</date>
+			<key>Date Added</key><date>2013-07-14T06:38:12Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3467241918</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-14T07:45:18Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-05T23:24:06Z</date>
+			<Normalization>6251</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Album>Fever You Can't Sweat Out</Sort_Album>
+			<Persistent_ID>1CFD80C26E32F019</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Panic%20At%20the%20Disco/A%20Fever%20You%20Can't%20Sweat%20Out/03%20London%20Beckoned%20Songs%20About%20Money%20By%20Machines.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>32123</key>
+		<dict>
+			<Track_ID>32123</Track_ID>
+			<Name>Hey There Delilah</Name>
+			<Artist>Plain White T's</Artist>
+			<Album>All That We Needed</Album>
+			<Genre>Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3767899</Size>
+			<Total_Time>232855</Total_Time>
+			<Track_Number>13</Track_Number>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:25:14Z</date>
+			<key>Date Added</key><date>2013-07-14T06:39:47Z</date>
+			<Bit_Rate>129</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Track 13</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3464290363</Play_Date>
+			<key>Play Date UTC</key><date>2013-10-11T03:52:43Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:06:37Z</date>
+			<Normalization>1725</Normalization>
+			<Persistent_ID>3AF3728FFB7166A7</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Plain%20White%20T's/All%20That%20We%20Needed/13%20Hey%20There%20Delilah.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>34563</key>
+		<dict>
+			<Track_ID>34563</Track_ID>
+			<Name>Anywhere With You</Name>
+			<Artist>Saves The Day</Artist>
+			<Album>In Reverie</Album>
+			<Genre>Emo</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3773969</Size>
+			<Total_Time>151092</Total_Time>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:25:42Z</date>
+			<key>Date Added</key><date>2013-07-14T06:41:40Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3466959008</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-11T01:10:08Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-14T04:47:45Z</date>
+			<Normalization>8746</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>75DC39B238492F5F</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Saves%20The%20Day/In%20Reverie/Anywhere%20With%20You.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>34565</key>
+		<dict>
+			<Track_ID>34565</Track_ID>
+			<Name>In Reverie</Name>
+			<Artist>Saves The Day</Artist>
+			<Album>In Reverie </Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3695466</Size>
+			<Total_Time>147826</Total_Time>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:25:42Z</date>
+			<key>Date Added</key><date>2013-07-14T06:41:40Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:06:40Z</date>
+			<Normalization>3694</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>B0547F791A95D1C4</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Saves%20The%20Day/In%20Reverie/In%20Reverie.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>34603</key>
+		<dict>
+			<Track_ID>34603</Track_ID>
+			<Name>Alive With The Glory Of Love</Name>
+			<Artist>Say Anything</Artist>
+			<Album>Say Anything Is A Real Boy</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>6133760</Size>
+			<Total_Time>255451</Total_Time>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:25:44Z</date>
+			<key>Date Added</key><date>2013-07-14T06:41:41Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Come see Say Anything on the Absolutepunk.net tour. www.absolutepunk.net/tour for more info!</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458796261</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-08T13:44:21Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:06:41Z</date>
+			<Normalization>4137</Normalization>
+			<Persistent_ID>9ECB81BB707B73A9</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Say%20Anything/Say%20Anything%20Is%20A%20Real%20Boy/Alive%20With%20The%20Glory%20Of%20Love.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>34881</key>
+		<dict>
+			<Track_ID>34881</Track_ID>
+			<Name>No Longer Now</Name>
+			<Artist>Sense Field</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>2447725</Size>
+			<Total_Time>152711</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:25:54Z</date>
+			<key>Date Added</key><date>2013-07-14T06:41:46Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3458796411</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-08T13:46:51Z</date>
+			<Normalization>7798</Normalization>
+			<Persistent_ID>8CC532A26461E886</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sense%20Field/Unknown%20Album/No%20Longer%20Now.MP3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>34917</key>
+		<dict>
+			<Track_ID>34917</Track_ID>
+			<Name>Can't Be Saved</Name>
+			<Artist>Senses Fail</Artist>
+			<Album>Still Searching</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6106893</Size>
+			<Total_Time>187611</Total_Time>
+			<Track_Number>4</Track_Number>
+			<Track_Count>13</Track_Count>
+			<Year>2006</Year>
+			<key>Date Modified</key><date>2008-12-27T00:25:56Z</date>
+			<key>Date Added</key><date>2013-07-14T06:41:46Z</date>
+			<Bit_Rate>252</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458562586</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T20:49:46Z</date>
+			<Normalization>12787</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>6E01F95B47C905EA</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Senses%20Fail/Still%20Searching/04%20Can't%20Be%20Saved.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>35855</key>
+		<dict>
+			<Track_ID>35855</Track_ID>
+			<Name>I Woke In A Car</Name>
+			<Artist>Something Coorprate</Artist>
+			<Kind>AAC audio file</Kind>
+			<Size>4104359</Size>
+			<Total_Time>255069</Total_Time>
+			<Track_Number>14</Track_Number>
+			<Track_Count>19</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:26:04Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:14Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>7</Play_Count>
+			<Play_Date>3467839771</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-21T05:49:31Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T13:49:24Z</date>
+			<Normalization>7130</Normalization>
+			<Persistent_ID>C6AD95EDB4897BFB</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Something%20Coorprate/Unknown%20Album/14%20I%20Woke%20In%20A%20Car.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36165</key>
+		<dict>
+			<Track_ID>36165</Track_ID>
+			<Name>My World</Name>
+			<Artist>SR-71</Artist>
+			<Album_Artist>SR-71</Album_Artist>
+			<Composer>John Allen/Mitch Allan</Composer>
+			<Album>Tomorrow (Advance)</Album>
+			<Genre>Punk Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5184571</Size>
+			<Total_Time>215902</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Year>2002</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:14Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:18Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>aPoCaLYPSe PRoDuCTioN CReW</Comments>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3467840050</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-21T05:54:10Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:06:46Z</date>
+			<Normalization>11178</Normalization>
+			<Persistent_ID>AA0716B49E116DE8</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/SR-71/Tomorrow%20(Advance)/03%20My%20World.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36325</key>
+		<dict>
+			<Track_ID>36325</Track_ID>
+			<Name>Until The Day I Die</Name>
+			<Artist>Story Of The Year</Artist>
+			<Album>Page Avenue</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>5885437</Size>
+			<Total_Time>242155</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Track_Count>12</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:26:18Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:26Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Party Hard!</Comments>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T15:02:47Z</date>
+			<Normalization>5220</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>4063FCC7CF2836DA</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Story%20Of%20The%20Year/Page%20Avenue/02%20Until%20The%20Day%20I%20Die.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36337</key>
+		<dict>
+			<Track_ID>36337</Track_ID>
+			<Name>Page Avenue</Name>
+			<Artist>Story Of The Year</Artist>
+			<Album>Page Avenue</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5248146</Size>
+			<Total_Time>215614</Total_Time>
+			<Track_Number>8</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:18Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:26Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3466959764</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-11T01:22:44Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:06:48Z</date>
+			<Normalization>4776</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>14430263E50E2513</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Story%20Of%20The%20Year/Page%20Avenue/08%20Page%20Avenue.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36339</key>
+		<dict>
+			<Track_ID>36339</Track_ID>
+			<Name>Sidewalks</Name>
+			<Artist>Story Of The Year</Artist>
+			<Album>Page Avenue</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5216858</Size>
+			<Total_Time>214308</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Track_Count>12</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:18Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:26Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Ph</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458642965</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-06T19:09:25Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-07T16:20:52Z</date>
+			<Normalization>5103</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>43FAA44EE0485570</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Story%20Of%20The%20Year/Page%20Avenue/09%20Sidewalks.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36531</key>
+		<dict>
+			<Track_ID>36531</Track_ID>
+			<Name>Under The Sun</Name>
+			<Artist>Sugar Ray</Artist>
+			<Album>Sugar Ray</Album>
+			<Genre>General Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3225600</Size>
+			<Total_Time>201560</Total_Time>
+			<Track_Number>3</Track_Number>
+			<key>Date Modified</key><date>2008-12-27T00:26:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:30Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>5</Play_Count>
+			<Play_Date>3468226542</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:15:42Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T02:46:39Z</date>
+			<Normalization>4370</Normalization>
+			<Persistent_ID>81B41EE924EC376D</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sugar%20Ray/Sugar%20Ray/03%20Under%20The%20Sun.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36557</key>
+		<dict>
+			<Track_ID>36557</Track_ID>
+			<Name>Every Morning</Name>
+			<Artist>Sugar Ray</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>3502671</Size>
+			<Total_Time>218906</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:26:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:31Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>6</Play_Count>
+			<Play_Date>3468226760</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:19:20Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T02:46:42Z</date>
+			<Normalization>3004</Normalization>
+			<Persistent_ID>17A3049E82704B25</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sugar%20Ray/Unknown%20Album/Every%20Morning.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36561</key>
+		<dict>
+			<Track_ID>36561</Track_ID>
+			<Name>Someday</Name>
+			<Artist>Sugar Ray</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>3897410</Size>
+			<Total_Time>242938</Total_Time>
+			<key>Date Modified</key><date>2009-10-06T02:41:10Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:31Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3468227003</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:23:23Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T02:46:45Z</date>
+			<Normalization>4566</Normalization>
+			<Persistent_ID>5B90E241E0609342</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sugar%20Ray/Unknown%20Album/Someday.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36563</key>
+		<dict>
+			<Track_ID>36563</Track_ID>
+			<Name>When It's Over</Name>
+			<Artist>Sugar Ray</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>5293610</Size>
+			<Total_Time>220133</Total_Time>
+			<key>Date Modified</key><date>2009-10-06T02:41:14Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:31Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>7</Play_Count>
+			<Play_Date>3468227223</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:27:03Z</date>
+			<Normalization>6670</Normalization>
+			<Persistent_ID>EFE6A534661BCF60</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sugar%20Ray/Unknown%20Album/When%20It's%20Over.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36571</key>
+		<dict>
+			<Track_ID>36571</Track_ID>
+			<Name>Memory</Name>
+			<Artist>Sugarcult</Artist>
+			<Album>Palm Trees And Power Lines</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5428049</Size>
+			<Total_Time>226142</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:31Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>6</Play_Count>
+			<Play_Date>3467232180</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-14T05:03:00Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T02:41:45Z</date>
+			<Normalization>10066</Normalization>
+			<Persistent_ID>E997B5D213CB6CA4</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sugarcult/Palm%20Trees%20And%20Power%20Lines/03%20Memory.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36577</key>
+		<dict>
+			<Track_ID>36577</Track_ID>
+			<Name>Over</Name>
+			<Artist>Sugarcult</Artist>
+			<Album_Artist>Sugarcult</Album_Artist>
+			<Composer>Sugarcult/Tim Pagnotta</Composer>
+			<Album>Palm Trees And Power Lines</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4923749</Size>
+			<Total_Time>205035</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:22Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:31Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3468226063</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:07:43Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T02:41:48Z</date>
+			<Normalization>8219</Normalization>
+			<Persistent_ID>F0E94886776C6FE1</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sugarcult/Palm%20Trees%20And%20Power%20Lines/09%20Over.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36603</key>
+		<dict>
+			<Track_ID>36603</Track_ID>
+			<Name>In Too Deep</Name>
+			<Artist>Sum 41</Artist>
+			<Composer>Sum 41</Composer>
+			<Album>All Killer No Filler</Album>
+			<Genre>Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5120233</Size>
+			<Total_Time>207124</Total_Time>
+			<Track_Number>7</Track_Number>
+			<Year>2001</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:22Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:31Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>8</Play_Count>
+			<Play_Date>3467046982</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-12T01:36:22Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-08-20T03:51:58Z</date>
+			<Normalization>7781</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>6119E7BEE27EB827</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sum%2041/All%20Killer%20No%20Filler/07%20In%20Too%20Deep.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36621</key>
+		<dict>
+			<Track_ID>36621</Track_ID>
+			<Name>Fat Lip</Name>
+			<Artist>Sum 41</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>3609913</Size>
+			<Total_Time>180375</Total_Time>
+			<Track_Number>12</Track_Number>
+			<Track_Count>19</Track_Count>
+			<key>Date Modified</key><date>2008-12-27T00:26:22Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:32Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>8</Play_Count>
+			<Play_Date>3467055401</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-12T03:56:41Z</date>
+			<Skip_Count>5</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T23:43:41Z</date>
+			<Normalization>7070</Normalization>
+			<Persistent_ID>46E8000A3CB34174</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Sum%2041/Unknown%20Album/12%20Fat%20Lip.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>36699</key>
+		<dict>
+			<Track_ID>36699</Track_ID>
+			<Name>Meant To Live</Name>
+			<Artist>Switchfoot</Artist>
+			<Album>The Beautiful Letdown</Album>
+			<Genre>Gospel &#38; Religious</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4283493</Size>
+			<Total_Time>205505</Total_Time>
+			<Track_Number>1</Track_Number>
+			<Track_Count>11</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:22Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:32Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3463822092</Play_Date>
+			<key>Play Date UTC</key><date>2013-10-05T17:48:12Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T15:08:10Z</date>
+			<Normalization>13188</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Album>Beautiful Letdown</Sort_Album>
+			<Persistent_ID>76D958970FF2E1B4</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Switchfoot/The%20Beautiful%20Letdown/01%20Meant%20To%20Live.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>37339</key>
+		<dict>
+			<Track_ID>37339</Track_ID>
+			<Name>Tribute</Name>
+			<Artist>Tenacious D</Artist>
+			<Album_Artist>Tenacious D</Album_Artist>
+			<Composer>Tenacious D</Composer>
+			<Album>Tenacious D</Album>
+			<Genre>Alternative</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5945736</Size>
+			<Total_Time>248058</Total_Time>
+			<Track_Number>3</Track_Number>
+			<Year>2001</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:36Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:55Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Advance</Comments>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3461841477</Play_Date>
+			<key>Play Date UTC</key><date>2013-09-12T19:37:57Z</date>
+			<Normalization>3985</Normalization>
+			<Persistent_ID>563E1DA718D4534A</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Tenacious%20D/Tenacious%20D/03%20Tribute.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>37369</key>
+		<dict>
+			<Track_ID>37369</Track_ID>
+			<Name>Kickapoo</Name>
+			<Artist>Tenacious D</Artist>
+			<Album_Artist>Tenacious D</Album_Artist>
+			<Composer>Jack Black/Kyle Gass/Liam Lynch</Composer>
+			<Album>The Pick Of Destiny</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6631245</Size>
+			<Total_Time>254406</Total_Time>
+			<Track_Number>1</Track_Number>
+			<Year>2006</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:36Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:57Z</date>
+			<Bit_Rate>208</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Better Than DELTA</Comments>
+			<Play_Count>9</Play_Count>
+			<Play_Date>3466858405</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-09T21:13:25Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-11T04:43:44Z</date>
+			<Normalization>4997</Normalization>
+			<Sort_Album>Pick Of Destiny</Sort_Album>
+			<Persistent_ID>25DEFD94A0EEA501</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Tenacious%20D/The%20Pick%20of%20Destiny/01%20Kickapoo.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>37403</key>
+		<dict>
+			<Track_ID>37403</Track_ID>
+			<Name>Dark</Name>
+			<Artist>Terminal</Artist>
+			<Album>How The Lonely Keep</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5502541</Size>
+			<Total_Time>236800</Total_Time>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:38Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:58Z</date>
+			<Bit_Rate>182</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>MGS</Comments>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3466858642</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-09T21:17:22Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-11T04:43:46Z</date>
+			<Normalization>5955</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>1804E33B60AA89F5</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Terminal/How%20The%20Lonely%20Keep/Dark.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>37431</key>
+		<dict>
+			<Track_ID>37431</Track_ID>
+			<Name>Attention</Name>
+			<Artist>The Academy Is</Artist>
+			<Composer>The Academy Is...</Composer>
+			<Album>Almost Here</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>3478515</Size>
+			<Total_Time>173531</Total_Time>
+			<Track_Number>1</Track_Number>
+			<Track_Count>10</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:19:30Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:58Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3468227583</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:33:03Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-11-09T21:01:10Z</date>
+			<Normalization>8795</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Artist>Academy Is</Sort_Artist>
+			<Sort_Composer>Academy Is...</Sort_Composer>
+			<Persistent_ID>5E8983822810F595</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Academy%20Is/Almost%20Here/01%20Attention.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>37447</key>
+		<dict>
+			<Track_ID>37447</Track_ID>
+			<Name>Down And Out</Name>
+			<Artist>The Academy Is</Artist>
+			<Composer>The Academy Is...</Composer>
+			<Album>Almost Here</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5414713</Size>
+			<Total_Time>270341</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Track_Count>10</Track_Count>
+			<Year>2005</Year>
+			<key>Date Modified</key><date>2008-12-27T00:19:32Z</date>
+			<key>Date Added</key><date>2013-07-14T06:42:58Z</date>
+			<Bit_Rate>160</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>4</Play_Count>
+			<Play_Date>3468227853</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-25T17:37:33Z</date>
+			<Normalization>8817</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Artist>Academy Is</Sort_Artist>
+			<Sort_Composer>Academy Is...</Sort_Composer>
+			<Persistent_ID>11499FB9D80C1903</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Academy%20Is/Almost%20Here/09%20Down%20And%20Out.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>38959</key>
+		<dict>
+			<Track_ID>38959</Track_ID>
+			<Name>Mr. Brightside</Name>
+			<Artist>The Killers</Artist>
+			<Album>Hot Fuss</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>3617536</Size>
+			<Total_Time>222608</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>2</Track_Number>
+			<Track_Count>11</Track_Count>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:52Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:24Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3468003682</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:21:22Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-06T18:44:28Z</date>
+			<Normalization>11057</Normalization>
+			<Sort_Artist>Killers</Sort_Artist>
+			<Persistent_ID>A4BD9C831CA20CF2</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Killers/Hot%20Fuss/02%20Mr.%20Brightside.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>38961</key>
+		<dict>
+			<Track_ID>38961</Track_ID>
+			<Name>Smile Like You Mean It</Name>
+			<Artist>The Killers</Artist>
+			<Album>Hot Fuss</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>3799368</Size>
+			<Total_Time>234636</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>3</Track_Number>
+			<Track_Count>11</Track_Count>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:52Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:24Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3468003917</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:25:17Z</date>
+			<Normalization>13522</Normalization>
+			<Sort_Artist>Killers</Sort_Artist>
+			<Persistent_ID>793E2F2CE161FF97</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Killers/Hot%20Fuss/03%20Smile%20Like%20You%20Mean%20It.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>38963</key>
+		<dict>
+			<Track_ID>38963</Track_ID>
+			<Name>Somebody Told Me</Name>
+			<Artist>The Killers</Artist>
+			<Album>Hot Fuss</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>3210367</Size>
+			<Total_Time>197182</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>4</Track_Number>
+			<Track_Count>11</Track_Count>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:52Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:24Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>2</Play_Count>
+			<Play_Date>3468004114</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:28:34Z</date>
+			<Normalization>12058</Normalization>
+			<Sort_Artist>Killers</Sort_Artist>
+			<Persistent_ID>8C489A5B854035E2</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Killers/Hot%20Fuss/04%20Somebody%20Told%20Me.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>38969</key>
+		<dict>
+			<Track_ID>38969</Track_ID>
+			<Name>On Top</Name>
+			<Artist>The Killers</Artist>
+			<Album>Hot Fuss</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>AAC audio file</Kind>
+			<Size>4199357</Size>
+			<Total_Time>258993</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>7</Track_Number>
+			<Track_Count>11</Track_Count>
+			<Year>2004</Year>
+			<key>Date Modified</key><date>2008-12-27T00:22:54Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:24Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>25</Play_Count>
+			<Play_Date>3468004373</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-23T03:32:53Z</date>
+			<Normalization>11614</Normalization>
+			<Sort_Artist>Killers</Sort_Artist>
+			<Persistent_ID>233C61754B499C16</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Killers/Hot%20Fuss/07%20On%20Top.m4a</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>39415</key>
+		<dict>
+			<Track_ID>39415</Track_ID>
+			<Name>Such Great Heights</Name>
+			<Artist>The Postal Service</Artist>
+			<Album>Give Up</Album>
+			<Kind>MPEG audio file</Kind>
+			<Size>6473380</Size>
+			<Total_Time>266422</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Track_Count>10</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:25:14Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:30Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Track 2</Comments>
+			<Play_Count>117</Play_Count>
+			<Play_Date>3468602489</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-30T01:41:29Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-09-29T03:24:19Z</date>
+			<Normalization>2327</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Artist>Postal Service</Sort_Artist>
+			<Persistent_ID>FD5627563EF2F8C4</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Postal%20Service/Give%20Up/02%20Such%20Great%20Heights.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>39429</key>
+		<dict>
+			<Track_ID>39429</Track_ID>
+			<Name>Brand New Colony</Name>
+			<Artist>The Postal Service</Artist>
+			<Album>Give Up</Album>
+			<Genre>Other</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>6070367</Size>
+			<Total_Time>252839</Total_Time>
+			<Track_Number>9</Track_Number>
+			<Track_Count>10</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:25:14Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:31Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>Track 9</Comments>
+			<Play_Count>129</Play_Count>
+			<Play_Date>3468602222</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-30T01:37:02Z</date>
+			<Skip_Count>6</Skip_Count>
+			<key>Skip Date</key><date>2013-11-02T01:44:05Z</date>
+			<Normalization>1919</Normalization>
+			<Sort_Artist>Postal Service</Sort_Artist>
+			<Persistent_ID>1D167EBD1482FE19</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Postal%20Service/Give%20Up/09%20Brand%20New%20Colony.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>39955</key>
+		<dict>
+			<Track_ID>39955</Track_ID>
+			<Name>Reptilia</Name>
+			<Artist>The Strokes</Artist>
+			<Album>Room On Fire</Album>
+			<Genre>Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>5309244</Size>
+			<Total_Time>219245</Total_Time>
+			<Track_Number>2</Track_Number>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:20Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:39Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Comments>..-*&#62;  TEAM ESCAPE  &#60;*-..</Comments>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3458563357</Play_Date>
+			<key>Play Date UTC</key><date>2013-08-05T21:02:37Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-08T15:02:54Z</date>
+			<Normalization>9252</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Sort_Artist>Strokes</Sort_Artist>
+			<Persistent_ID>426C25459FB73DFA</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Strokes/Room%20On%20Fire/02%20Reptilia.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>40033</key>
+		<dict>
+			<Track_ID>40033</Track_ID>
+			<Name>Ride</Name>
+			<Artist>The Vines</Artist>
+			<Kind>MPEG audio file</Kind>
+			<Size>5115543</Size>
+			<Total_Time>154644</Total_Time>
+			<key>Date Modified</key><date>2008-12-27T00:26:58Z</date>
+			<key>Date Added</key><date>2013-07-14T06:43:43Z</date>
+			<Bit_Rate>264</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>3</Play_Count>
+			<Play_Date>3467713903</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-19T18:51:43Z</date>
+			<Skip_Count>1</Skip_Count>
+			<key>Skip Date</key><date>2013-08-06T19:21:26Z</date>
+			<Normalization>17433</Normalization>
+			<Sort_Artist>Vines</Sort_Artist>
+			<Persistent_ID>CE3664B487B066EE</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/The%20Vines/Unknown%20Album/Ride.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>40745</key>
+		<dict>
+			<Track_ID>40745</Track_ID>
+			<Name>Echo</Name>
+			<Artist>Trapt</Artist>
+			<Album>Trapt</Album>
+			<Genre>Hard Rock</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4029074</Size>
+			<Total_Time>251794</Total_Time>
+			<Track_Number>6</Track_Number>
+			<Year>2002</Year>
+			<key>Date Modified</key><date>2008-12-27T00:26:50Z</date>
+			<key>Date Added</key><date>2013-07-14T06:45:11Z</date>
+			<Bit_Rate>128</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>1</Play_Count>
+			<Play_Date>3466858894</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-09T21:21:34Z</date>
+			<Skip_Count>2</Skip_Count>
+			<key>Skip Date</key><date>2013-11-11T04:43:48Z</date>
+			<Normalization>5164</Normalization>
+			<Persistent_ID>9711C13D6CA528FF</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Trapt/Trapt/06%20Echo.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+		<key>43145</key>
+		<dict>
+			<Track_ID>43145</Track_ID>
+			<Name>Ocean Avenue</Name>
+			<Artist>Yellowcard</Artist>
+			<Album>Ocean Avenue</Album>
+			<Genre>Alternative &#38; Punk</Genre>
+			<Kind>MPEG audio file</Kind>
+			<Size>4849519</Size>
+			<Total_Time>198321</Total_Time>
+			<Disc_Number>1</Disc_Number>
+			<Disc_Count>1</Disc_Count>
+			<Track_Number>3</Track_Number>
+			<Track_Count>13</Track_Count>
+			<Year>2003</Year>
+			<key>Date Modified</key><date>2008-12-27T00:27:06Z</date>
+			<key>Date Added</key><date>2013-07-14T06:47:28Z</date>
+			<Bit_Rate>192</Bit_Rate>
+			<Sample_Rate>44100</Sample_Rate>
+			<Play_Count>17</Play_Count>
+			<Play_Date>3467480381</Play_Date>
+			<key>Play Date UTC</key><date>2013-11-17T01:59:41Z</date>
+			<Normalization>9189</Normalization>
+			<Artwork_Count>1</Artwork_Count>
+			<Persistent_ID>FEDA324CEC03C25A</Persistent_ID>
+			<Track_Type>File</Track_Type>
+			<Location>file://localhost/Users/severe1013/Music/iTunes/iTunes%20Media/Music/Yellowcard/Ocean%20Avenue/03%20Ocean%20Avenue.mp3</Location>
+			<File_Folder_Count>5</File_Folder_Count>
+			<Library_Folder_Count>1</Library_Folder_Count>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<Name>7th Grade, I Don't Give A Fuck</Name>
+			<Playlist_ID>87219</Playlist_ID>
+			<Playlist_Persistent_ID>A6B55EFFAC8B7090</Playlist_Persistent_ID>
+			<All_Items>true</All_Items>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<Track_ID>10907</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>10901</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>10849</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>10871</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36603</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36621</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>43145</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>28085</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>8701</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17859</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17861</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17863</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17867</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17869</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17873</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17875</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17877</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17881</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17887</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17917</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17895</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17901</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17903</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17905</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17931</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17933</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17937</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17939</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>17941</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>31023</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>31025</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36571</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36577</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>14233</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36531</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36557</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36561</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36563</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>8413</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>37431</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>37447</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>11877</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>11879</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>20935</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>38959</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>38961</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>38963</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>38969</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>23121</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>25627</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>25819</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26583</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26585</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26587</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26589</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26591</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26593</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26595</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26597</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26599</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26601</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26603</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26605</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26761</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>26803</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>28623</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>28635</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>28651</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>14117</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>28815</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>28813</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>28905</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>29021</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>29135</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>32123</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>39415</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>39429</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>34563</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>34565</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>34603</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>34881</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>34917</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>35855</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36165</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36325</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36337</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36339</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>39955</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>36699</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>37339</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>37369</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>37403</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>40745</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>40033</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>11505</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>11507</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>11509</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>11511</Track_ID>
+				</dict>
+				<dict>
+					<Track_ID>11513</Track_ID>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
